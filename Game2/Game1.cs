@@ -4,6 +4,7 @@ using Microsoft.Xna.Framework.Input;
 
 namespace Game2
     // hallo change
+    // nog iets
 {
     /// <summary>
     /// This is the main type for your game.
