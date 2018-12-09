@@ -3,6 +3,7 @@ using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 
 namespace Game2
+    // hallo change
 {
     /// <summary>
     /// This is the main type for your game.
